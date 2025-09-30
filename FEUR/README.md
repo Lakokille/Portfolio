@@ -23,4 +23,4 @@ Its objective is to push the boundaries of amateur and academic rocketry through
 - 🚀 Next step: supersonic flight system validation with RCE1. 
 
 ## Vision  
-FEUR aims to become a **reference platform for experimental telemetry in rocketry**, bridging the gap between **academic research**, **student projects**, and **professional aerospace applications**.  
+FEUR aims to become a **reference platform for experimental telemetry in rocketry at SpaceTech**.
