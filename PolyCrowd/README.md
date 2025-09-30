@@ -26,6 +26,8 @@ This project demonstrates my skills in **C++ programming, simulation design, and
 ## How to Build
 1. Clone the repository:
 ```bash
-git clone https://github.com/killianblod/PolyCrowd.git
-(https://github.com/Lakokille/Poly_Crowd.git)
+git clone https://github.com/Lakokille/PolyCrowd.git
+Source Code (Not 100%) : https://github.com/Lakokille/Poly_Crowd.git)
 
+## How to Play  
+You can just download this folder and extract it to use the .exe
