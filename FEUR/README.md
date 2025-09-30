@@ -1,17 +1,26 @@
-# FEUR  
+# FEUR 🚀  
 
-**FEUR** is a research and experimental project focused on telemetry systems.  
-It explores how data can be collected, transmitted, and visualized efficiently, with a focus on modular and lightweight design.  
+**FEUR (Fusée Expérimentale Ultra Rapide)** is a supersonic experimental rocket project, developed in collaboration with the **CNES**.  
+Its objective is to push the boundaries of amateur and academic rocketry through advanced telemetry, high-speed flight, and robust system design.  
 
-## Overview  
-The project aims to:  
-- Investigate real-time telemetry collection methods.  
-- Develop a scalable framework for data monitoring.  
-- Provide insights into system performance through clear visualization tools.  
+## Key Features  
+- 🚀 **Supersonic Flight** – capable of reaching **Mach 1.3**.  
+- 💥 **Extreme Acceleration** – Simulated up to **33G**.  
+- 🛰️ **ESP32-based onboard computer** – ensures efficient data collection and control.  
+- 📡 **LoRa Telemetry System** – provides reliable, long-range communication between rocket and ground station.  
+- 🖥️ **Custom HMI** – real-time monitoring and visualization of flight parameters.  
+- 🤝 **CNES Collaboration** – support for design validation and telemetry integration.  
+
+## Goals  
+- Demonstrate a safe and reliable supersonic flight with embedded telemetry.  
+- Validate the use of lightweight IoT technologies in extreme aerospace conditions.  
+- Provide a framework for future educational and research applications in rocketry.  
 
 ## Current Stage  
-The core telemetry system is functional, with ongoing work to expand its modules and visualization capabilities.  
+- ✅ ESP32 firmware development in progress.  
+- ✅ LoRa communication pipeline established.  
+- 🚧 HMI visualization tools under active development.  
+- 🚀 Next step: supersonic flight system validation with RCE1. 
 
 ## Vision  
-FEUR is designed as a testbed for telemetry concepts, serving both as a technical experiment and as a foundation for future applications in monitoring, simulation, and real-world systems.  
-
+FEUR aims to become a **reference platform for experimental telemetry in rocketry**, bridging the gap between **academic research**, **student projects**, and **professional aerospace applications**.  
