@@ -14,3 +14,6 @@
 
 - **Robot 2023 – Autonomous Navigation Challenge**  
   Developed a mobile robot capable of autonomous navigation and obstacle avoidance using ultrasonic sensors and Arduino. Focused on embedded programming, sensor integration, and iterative testing.
+
+- **Eco Skills Challenge 2024 – Sustainable Fertilizer Initiative**  
+  Represented Polytech Orléans in a national competition focused on sustainable engineering. Contributed to the design of an affordable, upcycled fertilizer aimed at reducing phytosanitary infiltration into soil and waterways. Led the environmental impact analysis and co-presented the project to a professional jury. Strengthened my skills in eco-design, teamwork, and public speaking.
